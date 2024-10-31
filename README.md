@@ -2,7 +2,7 @@ Marcos Paulo Oliveira Santos e Michel Castro
 
 2°A MTEC Desenvolvimento de Sistemas
 
-Tema do Aplicativo 
+Tema do Aplicativo:
 Obras com a temática terror.
 
  BGore funciona como uma wiki sobre livros, 
